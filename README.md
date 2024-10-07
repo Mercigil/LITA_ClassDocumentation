@@ -16,3 +16,9 @@ The stakeholders encouraged me to use public data that explores smart device use
   3. Fot Data Visualiztion
 - SQl- Structured Query Language for Querying Data
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparartions
+
+### Exploratory Data Analysis
+
+
