@@ -28,3 +28,5 @@ This is where we included some basic lines of code
 SElECT * FROM table1
 WHERE CONDITION = TRUE
 ```
+### Data Visualizations
+![Sedentary_Mintues_Chart](https://github.com/user-attachments/assets/8bea7e60-78a4-4bca-9527-5b63a94fe558)
