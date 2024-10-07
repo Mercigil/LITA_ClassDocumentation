@@ -22,3 +22,9 @@ The stakeholders encouraged me to use public data that explores smart device use
 ### Exploratory Data Analysis
 
 ### Data Analysis
+This is where we included some basic lines of code
+
+```SQL
+SElECT * FROM table1
+WHERE CONDITION = TRUE
+```
