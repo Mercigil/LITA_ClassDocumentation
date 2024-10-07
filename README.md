@@ -10,7 +10,7 @@ The stakeholders encouraged me to use public data that explores smart device use
 •	FitBit Fitness Tracker Data: https://www.kaggle.com/datasets/arashnic/fitbit
 
 ### Tools Used
-- Microsoft Excel [Download Here](www.http.microsoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. Fot Data Visualiztion
