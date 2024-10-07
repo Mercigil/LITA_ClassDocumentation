@@ -1,7 +1,7 @@
 # LITA-Class-Documentation
 
 ### Project Title: Bellabeat Casestudy
-
+---
 ### Project Overview
 I am a junior data analyst working on the marketing analyst team at Bellabeat. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. This insights will help guide marketing strategy for the company.
 
