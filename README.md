@@ -21,4 +21,4 @@ The stakeholders encouraged me to use public data that explores smart device use
 
 ### Exploratory Data Analysis
 
-
+### Data Analysis
