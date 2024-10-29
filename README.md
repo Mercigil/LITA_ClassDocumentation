@@ -1,4 +1,4 @@
-# LITA-Class-Documentation
+# LITA
 
 ### Project Title: Bellabeat Casestudy
 [Project Overview](#project-overview) 
