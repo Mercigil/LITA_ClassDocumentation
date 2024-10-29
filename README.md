@@ -1,11 +1,13 @@
-# LITA
+# LITA Capstone Project
 
-### Project Title: Bellabeat Casestudy
+### Project Title: Sales Performance Analysis for a Retail Store
 [Project Overview](#project-overview) 
 
 [Data Source](#data-source) 
 
 [Tools Used](#tools-used) 
+
+[Data Cleaning and Preparartions](#Data-Cleaning-and-Preparartions)
 
 [Data Analysis](#data-analysis) 
 
@@ -13,21 +15,37 @@
 
 ---
 ### Project Overview
-I am a junior data analyst working on the marketing analyst team at Bellabeat. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. This insights will help guide marketing strategy for the company.
+I am working on my LITA Project where I will analysis Sales Performance  for a Retail Store.I explored sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. I produced an interactive Power BI dashboard that highlights these findings.
 
 ### Data Source
-The stakeholders encouraged me to use public data that explores smart device users’ daily habits. FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius). This Kaggle data set contains personal fitness tracker from fitbit users who consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits. The dataset
-•	FitBit Fitness Tracker Data: https://www.kaggle.com/datasets/arashnic/fitbit
+The Data was given by LITA team (Incubator Hub) on the learning platform (Canvas for Infrastructure) as an excel file.
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
-  3. Fot Data Visualiztion
-- SQl- Structured Query Language for Querying Data
+- SQL for Query Data [Download Here](https://www.microsoft.com)
+- Power BI for Data Visualizations [Download Here](https://www.microsoft.com)
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparartions
+The following was done to prepare our data for Analysis and Query
+- Downloading of data from LITA LMS (Canvas)
+- Opening of Data in Excel to Clean Dataset;
+  1. Freezing Header Row
+  2. Formatting Data as Table
+  3. Checking for Blank Cells or Rows (None was found)
+  4. Checking that each Row had the right Datatype
+  5. Checking for Duplicate Rows
+     - Downloaded Dataset had 50001 Rows including Header Rows
+     - 40079 Duplicate Rows found and Removed
+     - Cleaned Dataset left with 9921 Rows including Header Rows
+  6. Added a Calcuated Column (Revenue) as Quantity Sold * Unitprice
+- Copy data and opened in a New Workbook and saved it as a "csv" file
+- Open Cleaned dataset csv file using Power BI to extract add new column to dataset from OrderDate Column:
+  1. Added Column Year
+  2. Added Column Month Name
+  3. Added Column Quarter
 
 ### Exploratory Data Analysis
 
