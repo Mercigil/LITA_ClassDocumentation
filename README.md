@@ -1,6 +1,6 @@
-# LITA Capstone Project
+# LITA Class Project
 
-### Project Title: Sales Performance Analysis for a Retail Store
+### Project Title: E-Commerce Sales Analysis 
 [Project Overview](#project-overview) 
 
 [Data Source](#data-source) 
@@ -15,11 +15,13 @@
 
 ---
 ### Project Overview
-I am working on my LITA Project where I will analysis Sales Performance  for a Retail Store.I explored sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. I produced an interactive Power BI dashboard that highlights these findings.
+This Data Analysis Project aims to generate insights into the Sales performance of E-Commerce over the past  year. By analyzing the parameters in the data recieved, we seeek to gather enuogh insights to make reasonable decisions which then enables us to tell a compelling stories around our data from insight gotten and to know the best performance from our data.
 
+---
 ### Data Source
-The Data was given by LITA team (Incubator Hub) on the learning platform (Canvas for Infrastructure) as an excel file.
+The primary source of data used is Data Sale.csv and this is an open source data that can be freely download from kaggle or any other data repository site.
 
+---
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
@@ -28,27 +30,15 @@ The Data was given by LITA team (Incubator Hub) on the learning platform (Canvas
 - Power BI for Data Visualizations [Download Here](https://www.microsoft.com)
 - GitHub for Portfolio Building
 
+---
 ### Data Cleaning and Preparartions
 The following was done to prepare our data for Analysis and Query
 - Downloading of data from LITA LMS (Canvas)
-- Opening of Data in Excel to Clean Dataset;
-  1. Freezing Header Row
-  2. Formatting Data as Table
-  3. Checking for Blank Cells or Rows (None was found)
-  4. Checking that each Row had the right Datatype
-  5. Checking for Duplicate Rows
-     - Downloaded Dataset had 50001 Rows including Header Rows
-     - 40079 Duplicate Rows found and Removed
-     - Cleaned Dataset left with 9921 Rows including Header Rows
-  6. Added a Calcuated Column (Revenue) as Quantity Sold * Unitprice
-- Copy data and opened in a New Workbook and saved it as a "csv" file
-- Open Cleaned dataset csv file using Power BI to extract add new column to dataset from OrderDate Column:
-  1. Added Column Year
-  2. Added Column Month Name
-  3. Added Column Quarter
 
+---
 ### Exploratory Data Analysis
 
+---
 ### Data Analysis
 This is where we included some basic lines of code
 
@@ -56,5 +46,7 @@ This is where we included some basic lines of code
 SElECT * FROM table1
 WHERE CONDITION = TRUE
 ```
+
+---
 ### Data Visualizations
 ![Sedentary_Mintues_Chart](https://github.com/user-attachments/assets/8bea7e60-78a4-4bca-9527-5b63a94fe558)
