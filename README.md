@@ -37,6 +37,7 @@ The following was done to prepare our data for Analysis and Visualization.
 - Importing our data into Power BI (HR data and Map Data
 - Transform our data to check it cleanliness by checking Column Datatypes, Column Quality,Column Distribution  and Column Profile
 - Loading into Power BI, by close and apply.
+- Transforming our data by using first Row as Headers
 
 ---
 ### Map Visualization
