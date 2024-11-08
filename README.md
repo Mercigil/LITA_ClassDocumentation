@@ -45,7 +45,9 @@ NOTE:
   - Map visualizations requires internet service.
   - By default, map visuals are disabled, so following this steps
     Go to File, then click on Option and Settings. Then click on Options, under Global, click on Security and check the following boxes (Custom Visuals, ArcGIS for Power BI, Maps and Filled Maps visuals)
+
 Below is the Map visuals
+
 ![Map ](https://github.com/user-attachments/assets/5f4506e7-9f18-4254-9ca9-0a804b852edf)
 
 
