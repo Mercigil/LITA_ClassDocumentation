@@ -15,7 +15,7 @@
 
 ---
 ### Introduction
-This Data Analysis Project aims to generate insights HR data. By analyzing the parameters in the data recieved, we seeek to gather enuogh insights to make reasonable decisions which then enables us to tell a compelling stories around our data from insight gotten and to know the best performance from our data. Having been taught how to clean data, prepare data and analysis data, togther with our Power BI tutor (Mr. TeeDee) we handle a practical project so as to apply all we have been taught. 
+This Data Analysis Project aims to generate insights on the Attrition rate of the commpany by the HR data. By analyzing the parameters in the data recieved, we seeek to gather enuogh insights to make reasonable decisions which then enables us to tell a compelling stories around our data from insight gotten and to know the best performance from our data. Having been taught how to clean data, prepare data and analysis data, togther with our Power BI tutor (Mr. TeeDee) we handle a practical project so as to apply all we have been taught. 
 We also practiced visual like maps, matrix, tables, pie chart, donut chart, cards,slicers,mearsures and calculated columns. I aim to document and summarised all steps taken in this HR Project.
 
 ---
